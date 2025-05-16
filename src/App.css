@@ -1,0 +1,26 @@
+.App {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App-header {
+  margin-bottom: 2rem;
+}
+
+.App-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+section {
+  background-color: #1a1a1a;
+  border-radius: 8px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 1rem;
+}
